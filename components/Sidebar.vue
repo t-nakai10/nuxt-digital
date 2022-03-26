@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <sidebar>
+      <h1>デジタル庁</h1>
+      <ul>
+        <li>ホーム</li>
+        <li>活動・施策を知る</li>
+        <li>声を届ける</li>
+      </ul>
+    </sidebar>
+  </div>
+</template>
